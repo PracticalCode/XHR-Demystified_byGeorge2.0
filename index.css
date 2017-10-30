@@ -1,0 +1,58 @@
+
+body {
+    background-color: rgba(0, 128, 0, 0.2);
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    /* https://fonts.google.com/specimen/Work+Sans?selection.family=Work+Sans */
+}
+
+img {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 50px;
+}
+
+button {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.itemContainer {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.item {
+    border: 1px solid green;
+    min-width: 800px;
+}
+
+#EngineerBearLogo {
+    width: 150px;
+}
+
+#debugTxt {
+    font-size: 8;
+    font-family: Courier New, Courier, monospace;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+
+
+/*
+    file:///D:/!Geo/!Development/CodeSmith/XHR-Demystified_byGeorge2.0/index.css
+    created by George 2.0 Hope on 20171006
+     ... all rights reserved ... ☺
+     ... Creative Commons with Attribution License (CC BY 3.0 US)
+     ... https://creativecommons.org/licenses/by/3.0/us/ 
+*/
