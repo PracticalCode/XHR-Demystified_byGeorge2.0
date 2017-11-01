@@ -1,0 +1,5 @@
+!testFolders_PlsIgnoreAllInHere
+
+Please reference :
+
+    https://github.com/Ninja-9/SPAishVisualizer
